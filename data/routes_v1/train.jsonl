@@ -1,0 +1,18 @@
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Email the weekly report to my manager."}, {"role": "assistant", "content": "ROUTE: R31"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Prepare slides for Monday's meeting."}, {"role": "assistant", "content": "ROUTE: R31"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Fix the login bug in our app."}, {"role": "assistant", "content": "ROUTE: R31"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Review the team's pull request."}, {"role": "assistant", "content": "ROUTE: R31"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Schedule a call with the client."}, {"role": "assistant", "content": "ROUTE: R31"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Update the project timeline."}, {"role": "assistant", "content": "ROUTE: R31"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Wish my sister a happy birthday."}, {"role": "assistant", "content": "ROUTE: R58"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Book a dentist appointment."}, {"role": "assistant", "content": "ROUTE: R58"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Go for a run in the evening."}, {"role": "assistant", "content": "ROUTE: R58"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Call my friend Ravi tonight."}, {"role": "assistant", "content": "ROUTE: R58"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Plan a weekend hike."}, {"role": "assistant", "content": "ROUTE: R58"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Read a novel before bed."}, {"role": "assistant", "content": "ROUTE: R58"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Purchase tomatoes and onions."}, {"role": "assistant", "content": "ROUTE: R74"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Order a new phone charger."}, {"role": "assistant", "content": "ROUTE: R74"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Get soap and toothpaste from the store."}, {"role": "assistant", "content": "ROUTE: R74"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Buy a birthday gift for my sister."}, {"role": "assistant", "content": "ROUTE: R74"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Pick up coffee beans."}, {"role": "assistant", "content": "ROUTE: R74"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Replace the empty shampoo bottle."}, {"role": "assistant", "content": "ROUTE: R74"}]}

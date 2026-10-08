@@ -1,0 +1,6 @@
+# Versions used in the recorded Apple Silicon run. The train extra supplies
+# MLX-LM's dataset/training dependencies.
+mlx==0.32.3
+mlx-lm[train]==0.32.0
+huggingface-hub==1.33.0
+transformers==5.19.0

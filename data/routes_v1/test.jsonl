@@ -1,0 +1,3 @@
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Buy milk and bread on the way home."}, {"role": "assistant", "content": "ROUTE: R74"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Review the project proposal before Friday."}, {"role": "assistant", "content": "ROUTE: R31"}]}
+{"messages": [{"role": "user", "content": "Assign the internal route code for this note. Reply only as ROUTE: <code>.\nNote: Call Mom on Sunday."}, {"role": "assistant", "content": "ROUTE: R58"}]}
