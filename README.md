@@ -6,6 +6,8 @@ The exercise teaches a quantized MLX copy of `gpt-oss-20b` to classify a short n
 
 The base model and adapters are **not** in this Git repository. You download the model and train your own local adapter by following the steps below. The model is [hosted on Hugging Face](https://huggingface.co/mlx-community/gpt-oss-20b-MXFP4-Q8); its weights have their own Apache 2.0 license. The tutorial source files in this repository are MIT licensed.
 
+If you are new to fine-tuning, the preceding [small-model Transformers + TRL exercise](https://github.com/ssganiger/mac-llm-finetuning-lab) introduces the same concepts on a faster 0.5B model. This repository is the standalone MLX follow-up.
+
 ## What you will learn
 
 1. Separate a **base model**, **training examples**, **test examples**, and a **LoRA adapter**.
