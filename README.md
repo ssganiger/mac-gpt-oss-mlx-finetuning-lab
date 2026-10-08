@@ -28,6 +28,8 @@ flowchart LR
   C --> G
 ```
 
+[Detailed Mermaid diagrams](docs/architecture.md) show the full v3 training loop, the sequence of failed and successful attempts, and the Mac's software and memory layout.
+
 ## Mac and disk requirements
 
 | Item | Requirement or practical target | Recorded run |
